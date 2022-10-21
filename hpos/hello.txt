@@ -1,0 +1,25 @@
+CLI VS GUI 
+CLI is Fast compared to GUI 
+CLI >> Very easy to do the file Level Manipulations formula's compared to the GUI. 
+GUI will have several Instances Files to do the Manipulations. 
+
+CLI >> you can modify the internal data Search Fast. 
+
+Regular Expressions can be used in the CLI mode. 
+
+Header File 
+>> Only the Declarations will be in the Header File.. 
+Not the Definitions of the Functions in the Header file. 
+
+You can declare N* * number of Times in the Header Files. But can be defined only 1 Once. 
+
+Pragma Once ## Can be used to define the Header Files Once. 
+
+
+ELF ( Executable Linkage Files Format ..ELF data types)
+ELF files are the object generated files. These are intermediatory files. 
+You can do the read the file values thorugh the OBJDUMP command. 
+objdump a.out 
+
+Strip a.out // Remove the unnecssary values in the file. 
+
